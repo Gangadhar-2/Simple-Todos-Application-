@@ -1,0 +1,21 @@
+/* Write your CSS here */
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+p {
+  font-family: 'Roboto';
+  color: black;
+  margin-right: 15px;
+  font-weight: 600;
+}
+
+.btn {
+  width: 115px;
+  height: 35px;
+  background-color: transparent;
+  border-radius: 10px;
+  border: 1px solid #ff0b37;
+}
